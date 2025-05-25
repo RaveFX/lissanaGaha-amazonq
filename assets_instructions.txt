@@ -1,0 +1,49 @@
+# Assets Instructions for Lissana Gaha Nagima Game
+
+To enhance your game experience, create an 'assets' folder in the same directory as the game script and add the following files:
+
+## Required Image Files
+
+1. **background.png**
+   - A colorful village scene or festive background
+   - Recommended resolution: 800x600 pixels
+   - Should include elements like trees, houses, and possibly spectators
+
+2. **pole.png**
+   - A vertical wooden pole with a slightly slippery appearance
+   - Recommended size: 40px width, 600px height
+   - Can include decorations or markings to show progress
+
+3. **climber.png**
+   - A cartoon character climbing the pole
+   - Recommended size: 60x80 pixels
+   - Should be facing the pole with arms wrapped around it
+
+4. **coconut.png**
+   - A simple coconut obstacle
+   - Recommended size: 30x30 pixels
+   - Should have a round shape with texture
+
+## Required Sound Files
+
+1. **climb.wav**
+   - Short climbing sound effect
+   - Should be subtle enough to play repeatedly
+
+2. **slip.wav**
+   - Sliding/slipping sound effect
+   - Should convey loss of grip
+
+3. **fall.wav**
+   - Longer falling sound
+   - Should indicate a more significant drop
+
+4. **hit.wav**
+   - Impact sound for when a coconut hits the player
+   - Should be distinct from other sounds
+
+5. **win.wav**
+   - Celebratory sound for reaching the top
+   - Can include cheering or victory music
+
+Note: The game will still function without these assets by using colored shapes and no sound, but adding them will greatly enhance the gameplay experience.
